@@ -86,6 +86,15 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'New Article About Bats Takes the World by Storm',
+    date: 'Jan 3st, 2019',
+    firstParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Ut faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Vulputate ut pharetra sit amet aliquam id diam maecenas. Ut tristique et egestas quis ipsum suspendisse. Sit amet porttitor eget dolor morbi non arcu risus quis. Velit aliquet sagittis id consectetur purus. At auctor urna nunc id. Massa sed elementum tempus egestas. Bibendum ut tristique et egestas quis ipsum suspendisse. Egestas sed tempus urna et pharetra pharetra massa. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Scelerisque in dictum non consectetur a erat nam at lectus. Sed pulvinar proin gravida hendrerit. Magnis dis parturient montes nascetur.`,
+
+    secondParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Ut faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Vulputate ut pharetra sit amet aliquam id diam maecenas. Ut tristique et egestas quis ipsum suspendisse. Sit amet porttitor eget dolor morbi non arcu risus quis. Velit aliquet sagittis id consectetur purus. At auctor urna nunc id. Massa sed elementum tempus egestas. Bibendum ut tristique et egestas quis ipsum suspendisse. Egestas sed tempus urna et pharetra pharetra massa. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Scelerisque in dictum non consectetur a erat nam at lectus. Sed pulvinar proin gravida hendrerit. Magnis dis parturient montes nascetur.`,
+
+    thirdParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Ut faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Vulputate ut pharetra sit amet aliquam id diam maecenas. Ut tristique et egestas quis ipsum suspendisse. Sit amet porttitor eget dolor morbi non arcu risus quis. Velit aliquet sagittis id consectetur purus. At auctor urna nunc id. Massa sed elementum tempus egestas. Bibendum ut tristique et egestas quis ipsum suspendisse. Egestas sed tempus urna et pharetra pharetra massa. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Scelerisque in dictum non consectetur a erat nam at lectus. Sed pulvinar proin gravida hendrerit. Magnis dis parturient montes nascetur.`
   }
 ];
 
@@ -164,3 +173,4 @@ data.forEach(function(element){
   Step 5: Try adding new article object to the data array. Make sure it is in the same format as the others.
   Refresh the page to see the new article.
 */
+
